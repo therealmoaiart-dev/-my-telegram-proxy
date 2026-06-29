@@ -5,7 +5,7 @@ app = FastAPI()
 
 # 🔴 آدرس کامل وب‌هوک ربات خود در هاگینگ فیس را اینجا قرار دهید
 HF_SPACE_WEBHOOK_URL = (
-    "https://YOUR_HF_USERNAME-YOUR_SPACE_NAME.hf.space/YOUR_BOT_ROUTE"
+    "https://therealmoai-l-bot.hf.space"
 )
 
 
